@@ -1,105 +1,94 @@
-# 👋 Hi, I'm Tejasvi Sharma
-
-**Full Stack Developer**  
-📧 **Email:** [tejas9893s@gmail.com](mailto:tejas9893s@gmail.com)  
-📱 **Phone:** +91 9340417895  
-🔗 **LinkedIn:** [Tejasvi Sharma](https://www.linkedin.com/in/tejasvi-sharma)  
+<h1 align="center">Hi 👋, I'm Tejasvi Sharma</h1>
+<h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | Angular | React</h3>
 
 ---
 
-## 🚀 Profile Summary
-Results-driven **Full Stack Developer** with **5+ years** of experience designing and delivering **scalable web applications** using **Spring Boot, Angular, React**. Skilled at building **clean, responsive UIs** and **robust backend solutions**. Passionate about **learning, problem-solving**, and **driving innovation**.  
-💼 **Currently on notice period** – open to exciting new opportunities.
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-tejas9893s%40gmail.com-red?style=flat&logo=gmail)](mailto:tejas9893s@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-9340417895-brightgreen?style=flat&logo=phone)](tel:9340417895)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejasvi_Sharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tejasvi-sharma)
 
 ---
 
-## 🛠 Key Skills
+## 👨‍💻 Profile Summary
+💡 Results-driven **Full Stack Developer** with **5+ years** of experience building **scalable web applications** using **Spring Boot, Angular, React**.  
+🔥 Skilled in crafting **clean UIs** and **robust backends**. Passionate about **problem-solving, innovation,** and **continuous learning**.  
+📌 Currently on **notice period** and open to **exciting opportunities**.
 
-### 💻 Programming & Backend
-- Java, Spring Boot, Spring JPA, Hibernate  
-- Spring Security, Microservices Architecture  
-- RESTful API Development & Integrations  
-- Script Breaker, Message Pipeline, Batch Processing, Schedulers  
+---
 
-### 🗄️ Database & Querying
-- SQL, Relational Databases  
-- Database Design, Query Optimization  
+## 🛠 Tech Stack
 
-### 🌐 Frontend Development
-- JavaScript, HTML, CSS  
-- React.js, Angular  
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate) 
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=cloud)  
 
-### 🧠 Problem Solving & Design
-- Data Structures, Logic Building, Algorithmic Thinking  
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![Vue](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)  
 
-### 🧰 Tools & DevOps
-- Git, Jira  
-- Maven, Gradle  
+**Database & Tools:**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven) 
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)  
 
 ---
 
 ## 🎓 Education
-- **MCA** – Master of Computer Applications (2019 – 2021)  
-  *Shri RGP Gujarati Professional Institute, Indore*  
-
-- **BCA** – Bachelor of Computer Applications (2015 – 2018)  
-  *Shri RGP Gujarati Professional Institute, Indore*  
+🎓 **MCA** – Shri RGP Gujarati Professional Institute, Indore *(2019–2021)*  
+🎓 **BCA** – Shri RGP Gujarati Professional Institute, Indore *(2015–2018)*  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **H1 Champion 2023** – Delivered projects within strict timelines.  
-- 🏅 **Programmer of the Year** – Awarded during graduation for outstanding performance.  
+🏅 **H1 Champion 2023** – Delivered projects within strict timelines.  
+🏅 **Programmer of the Year** – Awarded during graduation.  
 
 ---
 
 ## 💼 Professional Experience
 
-### **ALPHAABETS DIGITAL LABS PVT. LTD., Bangalore**  
-*Full Stack Developer* | **Jan 2023 – Present**  
-**Responsibilities:**
-- Designed and developed RESTful APIs using Java, Spring Boot, Hibernate, and JPA.  
-- Integrated SAP, Ringi, and legacy databases with Enovia using direct DB access & message brokers.  
-- Implemented secure JWT authentication & role-based access with Spring Security.  
-- Developed schedulers, integrations, and asynchronous communications via ActiveMQ.  
-- Designed SQL Server data models and optimized queries.  
-- Created JPOs, triggers, and custom widgets in ENOVIA using MQL & Java.  
-- Built responsive UI with Vue.js, Bootstrap, and JavaScript.  
-- Ensured quality via SonarLint, API documentation with Swagger, and Git/KDiff version control.  
-- Led SIT/UAT phases with SAP, Aconex, Primavera, and OpenText teams.  
+### **ALPHAABETS DIGITAL LABS, Bangalore** *(Jan 2023 – Present)*
+- Designed REST APIs using Java, Spring Boot, Hibernate.  
+- Integrated SAP, Ringi & legacy DB with Enovia via direct DB & ActiveMQ.  
+- JWT Authentication, Role-based Access (Spring Security).  
+- Built responsive UIs with Vue.js, Bootstrap.  
+- Led SIT/UAT coordination with SAP, Aconex, Primavera, OpenText.  
 
-**Projects:**
-- **Integrated Project Management System (IPMS):** Unified SAP, OpenText, Primavera, and Enovia for project tracking.  
-- **MSIL Integration:** Connected SAP & Ringi with Enovia using ActiveMQ, executing stored procedures for legacy data, and custom logic via JPOs & MQL.  
+**Projects:**  
+- **Integrated Project Management System (IPMS)** – Unified SAP, OpenText, Primavera, Enovia.  
+- **MSIL Integration** – SAP & Ringi integration with Enovia via ActiveMQ & JPO/MQL custom logic.  
 
 ---
 
-### **Netlink Software Group America Inc., Bhopal**  
-*Full Stack Developer* | **Dec 2021 – Oct 2022**  
-**Responsibilities:**
-- Built backend APIs with Spring Boot & JWT security.  
-- Developed UIs with React and Angular.  
-- Optimized SQL Server schemas and queries.  
-- Created technical documentation, performed unit testing, and managed Git repositories.  
-- Participated in agile ceremonies (standups, sprint planning).  
+### **Netlink Software Group America Inc., Bhopal** *(Dec 2021 – Oct 2022)*
+- Backend APIs with Spring Boot & JWT security.  
+- UI with React & Angular.  
+- SQL Server schema optimization & queries.  
 
-**Projects:**
-- **Newsclips:** Internal platform for newsletter creation & publishing.  
-- **HRMS:** Employee workload and skill-based allocation tracking.  
-- **RNR (Reward and Recognition):** Managed activities & reward allocation based on performance.  
+**Projects:**  
+- **Newsclips** – Internal newsletter publishing platform.  
+- **HRMS** – Employee workload & skill allocation.  
+- **RNR** – Reward & recognition management.  
 
 ---
 
-### **24X7 Technology, Indore**  
-*IT Support & Crystal Reports Developer* | **Jan 2016 – Nov 2018**  
-**Responsibilities:**
-- Provided IT support, installation, troubleshooting, and training.  
-- Developed 200+ Crystal Reports for clients.  
-- Conducted training sessions for 40+ customers.  
-- Assisted in full-stack development tasks.  
+### **24X7 Technology, Indore** *(Jan 2016 – Nov 2018)*
+- IT Support & Crystal Reports development (200+ reports).  
+- Product training for 40+ customers.  
 
 ---
 
-📌 _Feel free to check out my repositories for sample projects and contributions!_  
+## 📊 GitHub Stats
+![Tejasvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejasvi-sharma&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvi-sharma&layout=compact&theme=radical)
 
 ---
+
+💡 _“Code is like humor. When you have to explain it, it’s bad.”_
